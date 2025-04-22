@@ -7,8 +7,8 @@ Hi, I'm Kyson Leung, a full-stack engineer and independent hacker. I'm currently
 
 ### My Blog
 My personal blog, where I share my learning notes on frontier technologies, my reflections on the development process, and analyses of some interesting ideas.  
-<a href="https://kyson.me" title="https://kyson.me" target="_blank">https://kyson.me</a>
+<a href="https://kyson.me" title="https://kyson.me" target="_blank" rel="dofollow">https://kyson.me</a>
 
 ### Bible Characters Top
 A comprehensive online resource dedicated to exploring the characters mentioned in the Bible, aiming to help users understand the various individuals that appear within it. It offers multiple ways to explore these characters, including interactive timelines, visualized character relationship charts, an alphabetical index, categorization by affiliation, and detailed personal profiles.  
-<a href="https://biblecharacters.top" title="https://biblecharacters.top" target="_blank">https://biblecharacters.top</a>
+<a href="https://biblecharacters.top" title="https://biblecharacters.top" rel="dofollow">https://biblecharacters.top</a>
